@@ -55,19 +55,6 @@ A fully POSIX-compliant shell built from scratch in C.
 
 ---
 
-### 🧬 Genetic Simulation — Rust
-**Team project**
-
-An evolutionary simulation built with Rust and the Bevy game engine.
-
-- Agents evolve through selection and mutation across generations
-- Aquatic physics simulation for realistic movement
-- Implemented evolutionary algorithms from scratch
-
-`Rust` `Bevy` `Simulation` `Evolutionary Algorithms` `Game Engine`
-
----
-
 ### ☕ Java Web Service — Java
 **Solo project**
 
@@ -80,6 +67,55 @@ A REST backend built with modern Java tooling.
 `Java` `Quarkus` `Hibernate` `PostgreSQL` `REST API`
 
 ---
+
+### ⚙️ Makefile Implementation — C
+**Solo project**
+
+Re-implementation of a Makefile build system in C.
+
+- Dependency graph parsing and resolution
+- Rule execution and file change detection
+
+`C` `Build Systems` `Parsing` `Systems Programming`
+
+---
+
+### 🌐 HTTP Server — C
+**Solo project**
+
+A basic HTTP server handling real requests in C.
+
+- Socket programming and TCP connection handling
+- HTTP request parsing (GET, headers, status codes)
+- Static file serving
+
+`C` `Networking` `HTTP` `Sockets` `Systems Programming`
+
+---
+
+### 🧠 Malloc Implementation — C
+**Solo project**
+
+Custom re-implementation of malloc, free and realloc from scratch.
+
+- Manual heap memory management
+- Block splitting, coalescing and fragmentation handling
+
+`C` `Memory Management` `Systems Programming` `Low-level`
+
+
+---
+
+### 🧬 Genetic Simulation — Rust
+**Team project**
+
+An evolutionary simulation built with Rust and the Bevy game engine.
+
+- Agents evolve through selection and mutation across generations
+- Aquatic physics simulation for realistic movement
+- Implemented evolutionary algorithms from scratch
+
+`Rust` `Bevy` `Simulation` `Evolutionary Algorithms` `Game Engine`
 
 ### 🎮 Multiplayer Game — Unity / C#
 **Team project (4 students)**

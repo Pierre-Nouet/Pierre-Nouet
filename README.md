@@ -81,6 +81,19 @@ A REST backend built with modern Java tooling.
 
 ---
 
+### 🎮 Multiplayer Game — Unity / C#
+**Team project (4 students)**
+
+A multiplayer game built from scratch in Unity during first year.
+
+- Designed and implemented the **inventory system** (item management, UI logic)
+- Built the **main menu** and navigation flow
+- Handled **multiplayer networking** (player sync, lobby, connections)
+
+`C#` `Unity` `Multiplayer` `Networking` `Game Development`
+
+---
+
 ## 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierre%20Nouet-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pierre-nouet)

@@ -40,20 +40,6 @@ Data structures · Algorithms · OOP · POSIX
 
 > Source code is confidential per EPITA's academic integrity policy. Descriptions below reflect real work done.
 
----
-
-### 🐚 POSIX Shell — C
-**Team project (4 students)**
-
-A fully POSIX-compliant shell built from scratch in C.
-
-- Custom lexer and parser for shell grammar
-- Support for pipes, redirections, and builtins
-- Project managed with Trello and full technical documentation
-
-`C` `POSIX` `Parsing` `Systems Programming` `Team`
-
----
 
 ### ☕ Java Web Service — Java
 **Solo project**
@@ -68,15 +54,16 @@ A REST backend built with modern Java tooling.
 
 ---
 
-### ⚙️ Makefile Implementation — C
-**Solo project**
+### 🐚 POSIX Shell — C
+**Team project (4 students)**
 
-Re-implementation of a Makefile build system in C.
+A fully POSIX-compliant shell built from scratch in C.
 
-- Dependency graph parsing and resolution
-- Rule execution and file change detection
+- Custom lexer and parser for shell grammar
+- Support for pipes, redirections, and builtins
+- Project managed with Trello and full technical documentation
 
-`C` `Build Systems` `Parsing` `Systems Programming`
+`C` `POSIX` `Parsing` `Systems Programming` `Team`
 
 ---
 
@@ -103,6 +90,17 @@ Custom re-implementation of malloc, free and realloc from scratch.
 
 `C` `Memory Management` `Systems Programming` `Low-level`
 
+---
+
+### ⚙️ Makefile Implementation — C
+**Solo project**
+
+Re-implementation of a Makefile build system in C.
+
+- Dependency graph parsing and resolution
+- Rule execution and file change detection
+
+`C` `Build Systems` `Parsing` `Systems Programming`
 
 ---
 

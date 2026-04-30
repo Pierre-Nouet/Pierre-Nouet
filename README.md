@@ -40,6 +40,19 @@ Data structures · Algorithms · OOP · POSIX
 
 > Source code is confidential per EPITA's academic integrity policy. Descriptions below reflect real work done.
 
+### 🐯 TIGER Compiler — C
+**Solo project**
+
+A compiler for the TIGER language, built from scratch in C.
+
+- Lexer and parser implementation from the language grammar
+- Binding (name resolution) and semantic analysis
+- Type checking across all language constructs
+- Desugaring passes to simplify the AST before code generation
+
+`C` `Compilers` `Lexing` `Parsing` `Type Checking` `Desugaring` `Systems Programming`
+
+---
 
 ### ☕ Java Web Service — Java
 **Solo project**

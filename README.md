@@ -40,7 +40,7 @@ Data structures · Algorithms · OOP · POSIX
 
 > Source code is confidential per EPITA's academic integrity policy. Descriptions below reflect real work done.
 
-### 🐯 TIGER Compiler — C
+### 🐯 TIGER Compiler — C++
 **Solo project**
 
 A compiler for the TIGER language, built from scratch in C.
@@ -50,7 +50,7 @@ A compiler for the TIGER language, built from scratch in C.
 - Type checking across all language constructs
 - Desugaring passes to simplify the AST before code generation
 
-`C` `Compilers` `Lexing` `Parsing` `Type Checking` `Desugaring` `Systems Programming`
+`C++` `Compilers` `Lexing` `Parsing` `Type Checking` `Desugaring` `Systems Programming`
 
 ---
 

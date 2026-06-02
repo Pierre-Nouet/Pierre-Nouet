@@ -1,4 +1,4 @@
-# Hi, I'm Pierre Nouet 👋
+# Hi, I'm Pierre Nouet 
 
 Computer Engineering student at **EPITA** (Class of 2028), passionate about low-level programming, algorithms, and building things that actually work.
 
@@ -6,16 +6,16 @@ Computer Engineering student at **EPITA** (Class of 2028), passionate about low-
 
 ---
 
-## 🎓 About me
+##  About me
 
-- 🏫 Currently in my first year of the engineering cycle at **EPITA**, Kremlin-Bicêtre
-- 🔍 Looking for a **4–5 month software development internship**
-- 🧠 Into algorithms, system programming, and clean architecture
-- 🤿 French vice-champion in underwater hockey — I know how to compete and collaborate
+-  Currently in my first year of the engineering cycle at **EPITA**, Kremlin-Bicêtre
+-  Looking for a **4–5 month software development internship**
+-  Into algorithms, system programming, and clean architecture
+-  French vice-champion in underwater hockey — I know how to compete and collaborate
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -36,11 +36,11 @@ Data structures · Algorithms · OOP · POSIX
 
 ---
 
-## 📁 University Projects
+##  University Projects
 
 > Source code is confidential per EPITA's academic integrity policy. Descriptions below reflect real work done.
 
-### 🐯 TIGER Compiler — C++
+###  TIGER Compiler — C++
 **Solo project**
 
 A compiler for the TIGER language, built from scratch in C.
@@ -54,7 +54,7 @@ A compiler for the TIGER language, built from scratch in C.
 
 ---
 
-### ☕ Java Web Service — Java
+###  Java Web Service — Java
 **Solo project**
 
 A REST backend built with modern Java tooling.
@@ -67,7 +67,7 @@ A REST backend built with modern Java tooling.
 
 ---
 
-### 🐚 POSIX Shell — C
+###  POSIX Shell — C
 **Team project (4 students)**
 
 A fully POSIX-compliant shell built from scratch in C.
@@ -80,7 +80,7 @@ A fully POSIX-compliant shell built from scratch in C.
 
 ---
 
-### 🌐 HTTP Server — C
+###  HTTP Server — C
 **Solo project**
 
 A basic HTTP server handling real requests in C.
@@ -93,7 +93,7 @@ A basic HTTP server handling real requests in C.
 
 ---
 
-### 🧠 Malloc Implementation — C
+###  Malloc Implementation — C
 **Solo project**
 
 Custom re-implementation of malloc, free and realloc from scratch.
@@ -105,7 +105,7 @@ Custom re-implementation of malloc, free and realloc from scratch.
 
 ---
 
-### ⚙️ Makefile Implementation — C
+###  Makefile Implementation — C
 **Solo project**
 
 Re-implementation of a Makefile build system in C.
@@ -117,7 +117,7 @@ Re-implementation of a Makefile build system in C.
 
 ---
 
-### 🧬 Genetic Simulation — Rust
+###  Genetic Simulation — Rust
 **Team project**
 
 An evolutionary simulation built with Rust and the Bevy game engine.
@@ -128,7 +128,7 @@ An evolutionary simulation built with Rust and the Bevy game engine.
 
 `Rust` `Bevy` `Simulation` `Evolutionary Algorithms` `Game Engine`
 
-### 🎮 Multiplayer Game — Unity / C#
+###  Multiplayer Game — Unity / C#
 **Team project (4 students)**
 
 A multiplayer game built from scratch in Unity during first year.
@@ -141,7 +141,7 @@ A multiplayer game built from scratch in Unity during first year.
 
 ---
 
-## 📬 Get in touch
+##  Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierre%20Nouet-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pierre-nouet)
 [![Email](https://img.shields.io/badge/Email-pierre.nouet95@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pierre.nouet95@gmail.com)
